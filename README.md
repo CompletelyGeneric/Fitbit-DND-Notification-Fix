@@ -10,6 +10,8 @@ Install Xposed and then install the most recent release [here](https://github.co
 ## Why?
 By default, the Fitbit Android app won't push notifications to your Fitbit if DND is enabled, which means that on AOSP, you can't get notifications unless your phone is set to *at least* vibrate.  
 This doesn't make sense to me, because I don't need my phone to vibrate if my Fitbit does. Most Fitbit devices also have their own DND mode, so I don't see why you wouldn't just use that if your device has one. (sorry Alta HR!).  
+  
+I'd be thrilled if Fitbit made an official quick settings tile.
 
 ## It doesn't work
 Your bluetooth stack is probably awful then.  Most Android devices seriously mangle bluetooth.
